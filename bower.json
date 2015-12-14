@@ -15,6 +15,7 @@
     "tests"
   ],
   "dependencies": {
-    "webcomponentsjs": "#latest"
+      "webcomponentsjs": "#latest",
+      "promise-polyfill": "PolymerLabs/promise-polyfill#latest"
   }
 }
