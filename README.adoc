@@ -1,0 +1,11 @@
+webcomponent polyfills
+----------------------
+
+link:http://webcomponents.org/polyfills/[polyfills]
+
+# usage
+
+link:http://clojars.org/miraj/polyfill[image:http://clojars.org/miraj/polyfill/latest-version.svg[]]
+
+
+Puts the webcomponentsjs resources at `scripts/webcomponentsjs`.
