@@ -8,4 +8,4 @@ link:http://webcomponents.org/polyfills/[polyfills]
 link:http://clojars.org/miraj/polyfill[image:http://clojars.org/miraj/polyfill/latest-version.svg[]]
 
 
-Puts the webcomponentsjs resources at `scripts/webcomponentsjs`.
+Makes webcomponentsjs resources available at `/scripts/webcomponentsjs`.
