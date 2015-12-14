@@ -1,7 +1,9 @@
 webcomponent polyfills
 ----------------------
 
-link:http://webcomponents.org/polyfills/[polyfills]
+Google's webcomponents link:http://webcomponents.org/polyfills/[polyfills]
+
+promise-polyfill based on link:https://github.com/taylorhakes/promise-polyfill[promise polyfill]
 
 # usage
 
