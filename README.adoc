@@ -5,7 +5,7 @@ link:http://webcomponents.org/polyfills/[polyfills]
 
 # usage
 
-link:http://clojars.org/miraj/polyfill[image:http://clojars.org/miraj/polyfill/latest-version.svg[]]
+link:http://clojars.org/miraj/polyfills[image:http://clojars.org/miraj/polyfills/latest-version.svg[]]
 
 
 Makes webcomponentsjs resources available at `/scripts/webcomponentsjs`.
