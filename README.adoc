@@ -11,3 +11,4 @@ link:http://clojars.org/miraj/polyfills[image:http://clojars.org/miraj/polyfills
 
 
 Makes webcomponentsjs resources available at `/scripts/webcomponentsjs`.
+
